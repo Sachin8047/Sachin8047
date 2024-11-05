@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding beautiful web-applications
 - 🌱 I’m currently learning ...reactJs,NodeJs,and more about web
 - 💞️ I’m looking to collaborate on ...on opensource frontend projects
-- 📫 How to reach me ...sachinlamoria111@gmail.com
+- 📫 How to reach me ... sachinlamoria111@gmail.com
 - 😄 Pronouns: ...No need I'm a male.
 - ⚡ Fun fact: ... I can really code in html...
 
